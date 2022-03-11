@@ -1,19 +1,13 @@
 package guru.qa5;
 
-import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
-import guru.qa5.pages.CheckPage;
+import guru.qa5.pages.components.CheckPage;
 import guru.qa5.pages.RegistrationPage;
 import guru.qa5.pages.components.CalendarComponent;
 import guru.qa5.pages.components.ClickSubmit;
 import guru.qa5.pages.components.PictureComponent;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
-
-import java.io.File;
-
-import static com.codeborne.selenide.Selenide.$;
-import static com.codeborne.selenide.Selenide.open;
 
 public class PracticeFormTests {
 

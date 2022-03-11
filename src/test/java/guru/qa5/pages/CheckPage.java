@@ -1,4 +1,4 @@
-package guru.qa5.pages;
+package guru.qa5.pages.components;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;
