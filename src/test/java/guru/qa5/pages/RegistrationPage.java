@@ -24,7 +24,7 @@ public class RegistrationPage {
       //      regResults = $(".table-responsive");
 
     public RegistrationPage openPage() {
-        open("https://demoqa.com/automation-practice-form");
+        open("/automation-practice-form");
         return this;
     }
 
