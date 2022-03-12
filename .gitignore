@@ -40,3 +40,4 @@ target/
 .vscode
 /gradlew
 /gradlew.bat
+java/guru/qa5/utils/RandomUtils.java
